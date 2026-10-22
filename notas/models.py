@@ -1,3 +1,3 @@
 from django.db import models
 
-# Create your models here.
+# Tengo ua clase y defino una tabla
